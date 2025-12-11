@@ -1,4 +1,4 @@
 {
-	"Version": "7.4.2",
-	"Announcement": "new command: diy/destroyiy (kinda buggy but wont destroy)"
+	"Version": "7.4.3",
+	"Announcement": "ADDED: shutdown COMMAND! | REMOVED: destroyiy COMMAND."
 }
