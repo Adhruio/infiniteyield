@@ -1,4 +1,4 @@
 {
-	"Version": "7.5.4",
-	"Announcement": "Changed executeautoplayer / executeat script on autoPlayerScriptUrl"
+	"Version": "7.6.4",
+	"Announcement": "Changed script that is infinite yield 6.3.6 auto-executing."
 }
