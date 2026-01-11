@@ -1,4 +1,4 @@
 {
-	"Version": "7.4.3",
-	"Announcement": "ADDED: shutdown COMMAND! | REMOVED: destroyiy COMMAND."
+	"Version": "7.5.4",
+	"Announcement": "Changed executeautoplayer / executeat script on autoPlayerScriptUrl"
 }
