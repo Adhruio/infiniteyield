@@ -12774,7 +12774,7 @@ end)
 
 addcmd('executeautoplayer', {'executeat'}, function(args, speaker)
     local success, error_msg = pcall(function()
-        local autoPlayerScriptUrl = "https://raw.githubusercontent.com/Nadir3709/ScriptHub/main/Loader"
+        local autoPlayerScriptUrl = "https://pandadevelopment.net/virtual/file/66baffc369ef170a"
 
         -- Check if the URL is valid (crucial!)
         if not autoPlayerScriptUrl or autoPlayerScriptUrl:match("^(https?://)") == nil then
